@@ -1,7 +1,7 @@
 {
   "name": "GitHub Auto Follow",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Automatically follow back users who follow your GitHub account",
   "content_scripts": [
     {
